@@ -1,0 +1,17 @@
+{
+  "project": "Yearn Finance",
+  "project_url": "https://yearn.finance",
+  "description": "Defi, made simple.",
+  "bounty": "https://github.com/iearn-finance/yearn-protocol/blob/develop/SECURITY.md#scope",
+  "bounty_max": "$250,000",
+  "security_contact": "https://github.com/iearn-finance/yearn-security/blob/master/SECURITY.md#receiving-disclosures",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/iearn-finance/yearn-security/blob/master/audits"
+        }
+      ]
+    }
+  ]
+}
